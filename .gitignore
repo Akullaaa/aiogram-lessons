@@ -2,3 +2,5 @@ __pycache__/
 *.py[cod]
 
 .DS_store
+/.venv
+/lesson-01/config.py
