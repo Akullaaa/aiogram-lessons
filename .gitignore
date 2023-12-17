@@ -4,3 +4,4 @@ __pycache__/
 .DS_store
 /.venv
 /lesson-01/config.py
+lesson-01/config.py
